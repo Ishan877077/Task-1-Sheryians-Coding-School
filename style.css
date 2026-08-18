@@ -1,0 +1,506 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+html,
+body {
+    width: 100%;
+    height: 100%;
+    background-color: #F7F2EF;
+}
+
+header,
+section,
+nav,main {
+    width: 100%;
+    height: 100%;
+}
+
+#N1 {
+    width: 11%;
+    height: 75%;
+    background-image: url(./—Pngtree—simple\ vector\ image\ with\ transparent_23276851.png);
+    background-position: top right;
+    background-size: cover;
+    opacity: 18%;
+}
+
+#N2 {
+    width: 10%;
+    height: 10%;
+    font-family: Arial, ;
+    font-size: 35px;
+    color: #191919;
+    position: absolute;
+    top: 3%;
+    left: 10%;
+    opacity: 90%;
+}
+
+#N3 {
+    width: 35%;
+    height: 20%;
+    position: absolute;
+    top: 3%;
+    left: 35%;
+    font-size: 20px;
+}
+
+#n3 {
+    width: 5%;
+    height: 15%;
+    position: absolute;
+    top: 23%;
+    left: 16%;
+    font-size: 20px;
+    color: black;
+    font-weight: 400;
+}
+
+#N4>img{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 5%;
+    left: 90%;  
+}
+
+#n5>img{
+    width: 38px;
+    height: 38px;
+    position: absolute;
+    top: 5%;
+    left: 94%;
+    opacity: 70%;
+
+}
+
+#n6>img{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    top: 4%;
+    left: 91%;
+    opacity: 90%;
+}
+
+#m1{
+    width: 500px;
+    height: 500px;
+    position: absolute;
+    background-image: url(./seth-doyle-BZ2PNGD5Emw-unsplash.jpg);
+    top: 17%;
+    left: 50%;
+    border-radius: 15px;
+    background-size: 550px;
+    background-position: 20% 50%;
+    background-repeat: no-repeat;
+}
+
+#m2>img{
+    width: 35px;
+    height: 35px;
+    position: absolute;
+    top: 17%;
+    left: 12%;
+    border-radius: 15px;
+}
+#m2>p{
+    position: absolute;
+    top: 18%;
+    left: 15%;
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: Arial;
+    color: #606650;
+}
+
+@font-face {
+    font-family: Canela;
+    src: url(./CanelaCondensed-Regular-Trial.otf);
+}
+#m3>h1{
+    font-size: 100px;
+    position: absolute;
+    top: 23%;
+    left: 12%;
+    font-family: serif;
+    margin-bottom: 0;
+    font-weight: 100;
+    line-height: 1.0;
+}
+
+#m4a{
+    position: absolute;
+    top: 48%;
+    left: 12%;
+}
+#m4b{
+    position: absolute;
+    top: 53%;
+    left: 12%;
+    font-family: Arial;
+    text-align: justify;
+    color: #868281;
+}
+
+#m4c{
+    position: absolute;
+    top: 63%;
+    left: 12%;
+    font-family: Arial;
+}
+
+#c1{
+    position: absolute;
+    top: 63%;
+    left: 20%;
+    width: 20px;
+    height: 20px;
+    background-color: #606650;
+    border-radius: 50%;
+}
+#c2{
+    position: absolute;
+    top: 63%;
+    left: 22%;
+    width: 20px;
+    height: 20px;
+    background-color: #E4DCD5;
+    border-radius: 50%;
+}
+#c3{
+    position: absolute;
+    top: 63%;
+    left: 24%;
+    width: 20px;
+    height: 20px;
+    background-color: #E1A8A7;
+    border-radius: 50%;
+}
+
+#m4d{
+    position: absolute;
+    top: 68%;
+    left: 12%;
+    font-family: Arial;
+}
+
+#m4e{
+    position: absolute;
+    top: 73%;
+    left: 12%;
+    text-align: start;
+    font-family: Arial;
+    color: #868281;
+    
+}
+
+#box1{
+    position: absolute;
+    top: 85%;
+    left: 12%;
+    width: 40px;
+    height: 40px;
+    background-color: #E7E5DA;
+    border-radius: 50%;
+    background-image: url(./leaf-branch-svgrepo-com.svg);
+    background-size: 25px;
+    background-position: center;
+    background-repeat: no-repeat;
+    
+    
+}
+#box2{
+    position: absolute;
+    top: 85%;
+    left: 24%;
+    width: 40px;
+    height: 40px;
+    background-color: #E7E5DA;
+    border-radius: 50%;
+    background-image: url(./feather-svgrepo-com.svg);
+    background-size: 25px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#box3{
+    position: absolute;
+    top: 85%;
+    left: 36%;
+    width: 40px;
+    height: 40px;
+    background-color: #E7E5DA;
+    border-radius: 50%;
+    background-image: url(./weave-svgrepo-com.svg);
+    background-size: 25px;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#hr1{
+    width: 5%;
+    position: absolute;
+    top: 90%;
+    left: 16.5%;
+    rotate: 90deg;
+}
+
+#hr2{
+    width: 5%;
+    position: absolute;
+    top: 90%;
+    left: 29%;
+    rotate: 90deg;
+}
+#m4f{
+    position: absolute;
+    top: 92%;
+    left: 12%;
+    text-align: center;
+}
+
+#m4g{
+    position: absolute;
+    top: 92%;
+    left: 23%;
+    text-align: center;
+}
+
+#m4h{
+    position: absolute;
+    top: 92%;
+    left: 35%;
+    text-align: center;
+}
+
+#m5{
+    width: 40%;
+    height: 10%;
+    background-color: transparent;
+    box-shadow: 5px 5px 10px rgba(0, 0, 0, 0.3);
+    border-radius: 15px;
+    position: absolute;
+    top: 85%;
+    left: 45%;
+}
+
+#m5i{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    background-image: url(./secure-shield-password-protect-safe-svgrepo-com.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    top: 25%;
+    left: 10%;
+
+}
+#m5j{
+    width: 45px;
+    height: 45px;
+    position: absolute;
+    background-image: url(./delivery-truck-delivery-svgrepo-com.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    top: 25%;
+    left: 38%;
+
+    
+}
+#m5k{
+    width: 40px;
+    height: 40px;
+    position: absolute;
+    background-image: url(./return-svgrepo-com.svg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    top: 25%;
+    left: 73%;
+}
+#m5o{
+    width: 30px;
+    rotate: 90deg;
+    position: absolute;
+    top: 50%;
+    left: 30%;
+}
+#m5p{
+    width: 30px;
+    rotate: 90deg;
+    position: absolute;
+    top: 50%;
+    left: 66%;
+}
+#m5l{
+    position: absolute;
+    top: 23%;
+    left: 20%;
+}
+
+#m5m{
+    position: absolute;
+    top: 25%;
+    left: 48%;
+}
+
+#m5n{
+    position: absolute;
+    top: 25%;
+    left: 81%;
+}
+
+#m6{
+    width: 200px;
+    height: 500px;
+    position: absolute;
+    top: 18%;
+    left: 82.5%;
+}
+
+#box4{
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    top: 0%;
+    left: 17%;
+    border-radius: 15px;
+    background-image: url(./seth-doyle-BZ2PNGD5Emw-unsplash.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+    border: #606650 2px solid;
+}
+
+#box5{
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    top: 25%;
+    left: 17%;
+    border-radius: 15px;
+    border-radius: 15px;
+    background-image: url(./pillow.jpg);
+    background-size: contain;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#box6{
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    top: 50%;
+    left: 17%;
+    border-radius: 15px;
+    border-radius: 15px;
+    background-image: url(./blanket.jfif);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+
+#box7{
+    width: 110px;
+    height: 110px;
+    position: absolute;
+    top: 75%;
+    left: 17%;
+    border-radius: 15px;
+    background-image: url(./flower.webp);
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+}
+#m7q{
+    width: 70px;
+    position: absolute;
+    top: 75%;
+    rotate: 90deg;
+    left: 45%;
+    font-weight: 400;
+    color: #191919;
+}
+
+#m7r{
+    font-size: 30px;
+    font-family: Arial;
+    position: absolute;
+    top: 53.5%;
+    rotate: 270deg;
+    left: 40.70%;
+}
+
+#box8{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background-color: #606650;
+    position: absolute;
+    top: 62%;
+    left: 73%;
+    z-index: 3;
+    background-image: url(./shopping-bag-line.svg);
+    background-size: 30px;
+    background-repeat: no-repeat;
+    background-position: 45px 27px;
+}
+
+#box9{
+    width: 80px;
+    height: 60px;
+    border-radius: 15px;
+    background-color: #E6E4E2;
+    position: absolute;
+    top: 19%;
+    left: 52%;
+    z-index: 3;
+
+}
+
+#box10{
+    width: 190px;
+    height: 40px;
+    border-radius: 15px;
+    background-color: #E6E4E2;
+    position: absolute;
+    top: 20%;
+    left: 66%;
+    z-index: 3;
+    background-image: url(./colorkit.svg);
+    background-size: 70px;
+    background-repeat: no-repeat;
+    background-position: 70%;
+}
+
+#b1s{
+    position: relative;
+    top: 60%;
+    left: 20%;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 15px;
+}
+
+#b1t{
+    position: relative;
+    top: 27%;
+    left: 20%;
+    font-family: Arial;
+    color: #000000;
+    font-size: 20px;
+}
+
+#b1u{
+    position: relative;
+    top: 27%;
+    left: 15%;
+    font-family: Arial;
+    color: #000000;
+    font-size: 15px;
+}
